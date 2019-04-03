@@ -19,7 +19,7 @@ In essence exploratory testing is about designing, executing and analyzing your 
 * explain to newcomers what Exploratory Testing is (10 min) 
 * decide on test goal for the session
 * create charters (5 - 10 min) 
-* do the testing session (30 min) 
+* do the testing session (30-60 min) 
 * debrief phase: discuss the defects and decide with PO which ones need to be solved 
 * optional: do another testing and debrief session
 
