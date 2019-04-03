@@ -27,7 +27,7 @@ In essence exploratory testing is about designing, executing and analyzing your 
 *Focus*  
 A pitfall for beginning Exploratory testers is the lack of focus. The idea is that you stick to your charter in one testing session. But you cannot help but notice unrelated things. Try not to get distracted by that. A tip is to document something you notice that isn't related to your charter as inspiration for your next testing session! When you've done that, bring your focus back to the charter at hand. 
 
-Extra tip for developers who are beginners in exploratory testing: don't start debugging when you've found a defect in the testing session. Stick to the charter, write down ideas on why or where the defect is manifesting itself but KEEP GOING. Stay focussed. It's only 30 minutes maximum.
+Extra tip for developers who are beginners in exploratory testing: don't start debugging when you've found a defect in the testing session. Stick to the charter, write down ideas on why or where the defect is manifesting itself but KEEP GOING. Stay focussed. It's only 30-60 minutes maximum.
 
 To sum it up: By concentrating you are able to observe the details. You will be alert of subtle clues about the system or application under test. Concentration is a limited source, so use it wisely.
 
@@ -39,7 +39,7 @@ To sum it up: By concentrating you are able to observe the details. You will be 
 * It's also a good idea to get people out of their comfort zone. Get back-end devs to test the front-end and vice versa
 
 *Timeboxing*  
-Timeboxing is of paramount importance. When you do an ET session, set a timebox for 30 minutes maximum. You probably cannot hold deep focus for longer than that. Spend 5 minutes creating some charters, then test for 30 minutes and debrief. Of course after you've completed one testing cycle, nobody stops you from doing another! As long as you are aware of the limits of your concentration all is well. 
+Timeboxing is of paramount importance. When you do an ET session, set a timebox for 30-60 minutes maximum. You probably cannot hold deep focus for longer than that. Spend 5 minutes creating some charters, then test for 30-60 minutes and debrief. Of course after you've completed one testing cycle, nobody stops you from doing another! As long as you are aware of the limits of your concentration all is well. 
 
 *What can you test with ET*  
 Anything. It isn't limited to the front-end. You can test databases, API's, the back-end, anything really.
