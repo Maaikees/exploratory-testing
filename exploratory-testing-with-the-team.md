@@ -80,7 +80,8 @@ Feelings. How does the tester feel about all this?
 Don't forget to do a debrief, it is really important. Here you can decide with the team and PO which bugs are worth solving, for instance.
 
 ### Want to know more?
-Read the book ['Explore It!' by Elisabeth Hendrickson](https://www.amazon.com/Explore-It-Increase-Confidence-Exploratory/dp/1937785025)  
+Read the book ['Explore It!' by Elisabeth Hendrickson](https://www.amazon.com/Explore-It-Increase-Confidence-Exploratory/dp/1937785025)
+Read the book [Contemporary Exploratory Testing by Maaret Pyhäjärvi](https://leanpub.com/exploratorytesting)
 Use this [Test Heuristics Cheat Sheet](http://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf) during your test sessions  
 Read James' Bach [blog](http://www.satisfice.com/articles/what_is_et.shtml) about the subject  
 Look at [this presentation](http://www.kaner.com/pdfs/QAIExploring.pdf) that explains the difference between scripted testing and ET  
