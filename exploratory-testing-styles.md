@@ -86,6 +86,5 @@ Mobile: Genymotion, Android Studio, xcode
 
 ### Resources
 [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)  
-[Test Heuristics Cheat Sheet](http://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf)  
-[Exploratory Testing Styles](http://www.testingeducation.org/course_notes/amland_stale/cm_200212_exploratorytesting/exploratorytesting_4_styles.pdf)
+[Test Heuristics Cheat Sheet](https://www.ministryoftesting.com/articles/test-heuristics-cheat-sheet)  
 
